@@ -1,0 +1,15 @@
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\bin\Debug\net6.0\LINQ-Test.exe
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\bin\Debug\net6.0\LINQ-Test.deps.json
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\bin\Debug\net6.0\LINQ-Test.runtimeconfig.json
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\bin\Debug\net6.0\LINQ-Test.dll
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\bin\Debug\net6.0\LINQ-Test.pdb
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.csproj.AssemblyReference.cache
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.AssemblyInfoInputs.cache
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.AssemblyInfo.cs
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.csproj.CoreCompileInputs.cache
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.dll
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\refint\LINQ-Test.dll
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.pdb
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\LINQ-Test.genruntimeconfig.cache
+C:\Users\FP2301321\source\repos\LINQ-Test\LINQ-Test\obj\Debug\net6.0\ref\LINQ-Test.dll
